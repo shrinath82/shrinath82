@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrinath
-- 👀 I’m interested in ...HTML, CSS, Javascript & Python.
+- 👀 I’m interested in ...HTML, CSS, Javascript, Python, Linux, Windows, Security & Network.
 - 🌱 I’m currently learning ...The above
 - 💞️ I’m looking to collaborate on ...The above
 - 📫 How to reach me ...www.linkedin.com/in/shrinath-k-2402622a6
