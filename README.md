@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrinath
+- 👋 Hi, I’m @Shrinath
 - 👀 I’m interested in ...HTML, CSS, Javascript, Python, Linux, Windows, Security & Network.
 - 🌱 I’m currently learning ...The above
 - 💞️ I’m looking to collaborate on ...The above
