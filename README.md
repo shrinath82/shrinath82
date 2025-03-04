@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrinath
 - 👀 I’m interested in ...HTML, CSS, Javascript, Python, AWS, Linux, Windows, Security & Network.
-- 🌱 I’m currently learning ...The above
+- 🌱 I’m currently learning ...AI agents
 - 💞️ I’m looking to collaborate on ...The above
 - 📫 How to reach me ...www.linkedin.com/in/shrinath-k-2402622a6
 - 😄 Pronouns: ...He/Him
