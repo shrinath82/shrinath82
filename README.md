@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...The above
 - 📫 How to reach me ...www.linkedin.com/in/shrinath-k-2402622a6
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am old
+- ⚡ Fun fact: ...Persistently solving puzzles since the days of dial-up.
 
 <!---
 shrinath82/shrinath82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
