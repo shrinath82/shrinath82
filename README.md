@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Shrinath
-- 👀 I’m interested in ...HTML, CSS, Javascript, Python, AWS, Linux, Windows, Security & Network.
-- 🌱 I’m currently learning ...AI agents
-- 💞️ I’m looking to collaborate on ...The above
+# 👋 Hi, I'm Shrinath!
+🚀 IT & Frontend Web Development Enthusiast | Learning Jira & API Integration | Building SaaS apps & Automation  
+- 🔭 Currently working on **I’m currently learning ...AI agents**  
+- 🌱 Learning **ServiceNow & Jira Administration**
 - 📫 How to reach me ...www.linkedin.com/in/shrinath-k-2402622a6
-- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Persistently solving puzzles since the days of dial-up.
+- 😄 Pronouns: ...He/Him
+---
 
-<!---
-shrinath82/shrinath82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats  
+
+### **🔥 My GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrinath82&theme=dark)  
+
+### **💡 GitHub Stats Card**  
+![Shrinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinath82&show_icons=true&theme=dark)  
+
+### **🚀 Top Languages Used**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinath82&layout=compact&theme=dark)  
+
+### **🏆 GitHub Profile Trophy**  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shrinath82&theme=darkhub)  
+
+---
+
+## 🚀 My Projects  
+- **[IT Helpdesk Ticketing System](https://github.com/shrinath82/IT-Helpdesk-Ticketing-System)**  
