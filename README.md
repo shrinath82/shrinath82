@@ -10,18 +10,18 @@
 ## 📊 GitHub Stats  
 
 ### **🔥 My GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrinath82&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrinath82&theme=dark&v=1)  
 
 ### **💡 GitHub Stats Card**  
-![Shrinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinath82&show_icons=true&theme=dark)  
+![Shrinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinath82&show_icons=true&theme=dark&v=1)  
 
 ### **🚀 Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinath82&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinath82&layout=compact&theme=dark&v=1)  
 
 ### **🏆 GitHub Profile Trophy**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shrinath82&theme=darkhub)  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shrinath82&theme=darkhub&v=1)  
 
 ---
 
 ## 🚀 My Projects  
-- **[IT Helpdesk Ticketing System](https://github.com/shrinath82/IT-Helpdesk-Ticketing-System)** 
+- **[IT Helpdesk Ticketing System](https://github.com/shrinath82/IT-Helpdesk-Ticketing-System&v=1)** 
